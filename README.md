@@ -40,7 +40,6 @@ G-700 allows you to securely control Android devices up to Android 16 from your 
 |:---------|:-----------|
 | **PC** | Windows 10 / Windows 11 |
 | **Phone** | Android 8.1 → Android 16+ |
-| **Extra** | AOSP & GrapheneOS Support |
 
 ---
 

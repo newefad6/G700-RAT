@@ -13,18 +13,19 @@
 
   <!-- BUTTONS -->
   <p>
-    <a href="YOUR_PURCHASE_LINK">
+    
+    <a href="https://g-700.net/order/">
       <img src="https://img.shields.io/badge/BUY%20NOW-1--Month%20%7C%20Lifetime-00C853?style=for-the-badge&logo=shopify" alt="Buy">
     </a>
-    <a href="YOUR_TELEGRAM_CHANNEL">
+    <a href="https://t.me/G700_RAT">
       <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram">
     </a>
-    <a href="YOUR_CONTACT_LINK">
+    <a href="https://t.me/devx_support">
       <img src="https://img.shields.io/badge/Contact-Support-0078D4?style=for-the-badge&logo=telegram" alt="Contact">
     </a>
   </p>
   
-  <p>🌐 <a href="YOUR_WEBSITE">www.your-website.com</a></p>
+  <p>🌐 <a href="https://g-700.net/">www.G-700.net</a></p>
   <hr>
 </div>
 
@@ -40,7 +41,6 @@ G-700 allows you to securely control Android devices up to Android 16 from your 
 |:---------|:-----------|
 | **PC** | Windows 10 / Windows 11 |
 | **Phone** | Android 8.1 → Android 16+ |
-| **Extra** | AOSP & GrapheneOS Support |
 
 ---
 
@@ -80,12 +80,12 @@ G-700 allows you to securely control Android devices up to Android 16 from your 
 
 ## 🛒 License Options
 
-| License | Price | Devices |
+| License | Devices |
 |:-------|:-----:|:-------|
-| **1-Month License** | $XX | 1 Device |
-| **Lifetime License** | $XXX | 3 Devices |
+| **1-Month License** | 1 Device |
+| **Lifetime License**| 3 Devices |
 
-<a href="YOUR_PURCHASE_LINK">
+<a href="https://g-700.net/order/">
   <img src="https://img.shields.io/badge/🛒%20CLICK%20TO%20BUY-Purchase%20Now-ff6b6b?style=for-the-badge" alt="Buy">
 </a>
 
@@ -93,9 +93,9 @@ G-700 allows you to securely control Android devices up to Android 16 from your 
 
 ## 📢 Official Channel
 
-📣 **Telegram:** [@YourChannel](YOUR_TELEGRAM_CHANNEL)  
-📞 **Support:** [@YourUsername](YOUR_CONTACT_LINK)  
-🌐 **Website:** [www.your-website.com](YOUR_WEBSITE)
+📣 **Telegram:** [@G700_RAT](https://t.me/G700_RAT)  
+📞 **Support:** [@devx_support](https://t.me/devx_support)  
+🌐 **Website:** [www.G-700.net](https://g-700.net)
 
 ---
 
@@ -116,5 +116,5 @@ G-700 allows you to securely control Android devices up to Android 16 from your 
 <div align="center">
   <hr>
   <p>© 2026 G-700. All rights reserved.</p>
-  <sub>v3.2 | Updated March 2026</sub>
+  <sub>v8.1 | Updated March 2026</sub>
 </div>

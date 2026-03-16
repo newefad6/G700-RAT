@@ -13,18 +13,18 @@
 
   <!-- BUTTONS -->
   <p>
-    <a href="YOUR_PURCHASE_LINK">
+    <a href="https://g-700.net/order/">
       <img src="https://img.shields.io/badge/BUY%20NOW-1--Month%20%7C%20Lifetime-00C853?style=for-the-badge&logo=shopify" alt="Buy">
     </a>
-    <a href="YOUR_TELEGRAM_CHANNEL">
+    <a href="https://t.me/+nB4af88TAJAyMTE8">
       <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram">
     </a>
-    <a href="YOUR_CONTACT_LINK">
+    <a href="https://t.me/devx_support">
       <img src="https://img.shields.io/badge/Contact-Support-0078D4?style=for-the-badge&logo=telegram" alt="Contact">
     </a>
   </p>
   
-  <p>🌐 <a href="YOUR_WEBSITE">www.your-website.com</a></p>
+  <p>🌐 <a href="https://g-700.net">www.G-700.Net</a></p>
   <hr>
 </div>
 

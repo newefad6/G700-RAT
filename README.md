@@ -77,8 +77,6 @@ G-700 allows you to securely control Android devices up to Android 16 from your 
 ✅ 24/7 Chat Support
 ✅ Free Future Updates
 
-
-
 > **After purchase:** All delivered in your user page on website
 
 ---

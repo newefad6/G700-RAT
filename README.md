@@ -62,6 +62,8 @@ G-700 allows you to securely control Android devices up to Android 16 from your 
 | **Activities** | Live app activity monitor |
 | **App Manager** | List/Disable/Uninstall apps |
 | **Contacts** | Full contacts management |
+| **⚙️ Extra** | WiFi networks, Clipboard, Notifications, Shell Commands, Black Screen & more |
+
 
 ---
 

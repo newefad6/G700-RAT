@@ -1,4 +1,3 @@
-
 <div align="center">
   <!-- BADGES -->
   <p>
@@ -82,9 +81,9 @@ G-700 allows you to securely control Android devices up to Android 16 from your 
 ## 🛒 License Options
 
 | License | Devices |
-|:-------|:-----:|:-------|
+|:-------|:-------:|
 | **1-Month License** | 1 Device |
-| **Lifetime License**| 3 Devices |
+| **Lifetime License** | 3 Devices |
 
 <a href="https://g-700.net/order/">
   <img src="https://img.shields.io/badge/🛒%20CLICK%20TO%20BUY-Purchase%20Now-ff6b6b?style=for-the-badge" alt="Buy">
